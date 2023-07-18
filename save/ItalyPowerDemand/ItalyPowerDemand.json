@@ -1,0 +1,15 @@
+{
+  "ItalyPowerDemand":
+  {
+    "datanum": 1029,
+    "datalen": 24,
+    "classnum": 2,
+    "infeature": ["rerp" ,"gas", "regas", "trgas", "gad", "regad", "trmk"]
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 2,
+    "dim" : 34
+  }
+}

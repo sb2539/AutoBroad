@@ -1,0 +1,17 @@
+{
+  "Adiac":
+  {
+    "datanum": 391,
+    "rawlen" : 176,
+    "datalen": 176,
+    "classnum": 37,
+    "infeature": ["trrp","gas","regas","regad","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 24
+  }
+}

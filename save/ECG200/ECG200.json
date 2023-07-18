@@ -1,0 +1,16 @@
+{
+  "ECG200":
+  {
+    "datanum": 100,
+    "rawlen" : 96,
+    "datalen": 64,
+    "classnum": 2,
+    "infeature": ["rerp","gad"]
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 12
+  }
+}

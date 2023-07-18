@@ -1,0 +1,17 @@
+{
+  "Fish":
+  {
+    "datanum": 175,
+    "rawlen" : 463,
+    "datalen": 463,
+    "classnum": 7,
+    "infeature": ["gad","trgas","trgad","remk","rerp","trrp"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 3,
+    "dim" : 16
+  }
+}

@@ -1,0 +1,11 @@
+,channel_num,img_coding,acc,error_rate
+0,12,"['ctwav', 'rp', 'regad', 'trgad', 'trrp', 'remk', 'rerp', 'regas', 'gad', 'gas', 'trmk', 'mk']",83.60655737704919,0.16393442622950816
+1,10,"['regad', 'rerp', 'regas', 'trmk', 'trgas', 'gad', 'trrp', 'remk', 'trgad', 'mk']",86.88524590163935,0.1311475409836066
+2,1,['trrp'],75.40983606557377,0.24590163934426235
+3,8,"['trrp', 'mk', 'ctwav', 'gas', 'gad', 'trmk', 'remk', 'regad']",80.32786885245902,0.19672131147540983
+4,8,"['mk', 'trrp', 'gas', 'trgad', 'trgas', 'regas', 'trmk', 'gad']",85.24590163934427,0.14754098360655743
+5,6,"['trrp', 'rerp', 'remk', 'trmk', 'rp', 'gas']",72.1311475409836,0.2786885245901639
+6,8,"['ctwav', 'remk', 'trmk', 'rerp', 'gad', 'rp', 'mk', 'trgas']",77.04918032786885,0.2295081967213115
+7,10,"['trrp', 'rp', 'rerp', 'trgas', 'trgad', 'remk', 'ctwav', 'gas', 'mk', 'regas']",88.52459016393442,0.11475409836065575
+8,1,['trgas'],72.1311475409836,0.2786885245901639
+9,7,"['trrp', 'remk', 'trmk', 'gas', 'ctwav', 'mk', 'trgad']",80.32786885245902,0.19672131147540983

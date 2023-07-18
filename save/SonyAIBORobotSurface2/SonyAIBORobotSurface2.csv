@@ -1,0 +1,3 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+240,1,['ctwav'],[4],[3],[8],260292,88.66736621196222,0.11332633788037771
+399,3,"['ctwav', 'remk', 'trrp']",[4],[2],[20],1157232,88.66736621196222,0.11332633788037771

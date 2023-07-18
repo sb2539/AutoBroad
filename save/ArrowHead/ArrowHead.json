@@ -1,0 +1,17 @@
+{
+  "ArrowHead":
+  {
+    "datanum": 175,
+    "rawlen" : 251,
+    "datalen": 251,
+    "classnum": 3,
+    "infeature": ["rp","regas","trgas","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 36
+  }
+}

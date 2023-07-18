@@ -1,0 +1,16 @@
+{
+  "MiddlePhalanxTW":
+  {
+    "datanum": 154,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 6,
+    "infeature": ["trrp", "regas",  "trgas", "gad", "regad", "trgad", "mk", "remk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 16
+  }
+}

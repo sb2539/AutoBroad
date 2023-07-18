@@ -1,0 +1,17 @@
+{
+  "CricketX":
+  {
+    "datanum": 390,
+    "rawlen" : 300,
+    "datalen": 300,
+    "classnum": 12,
+    "infeature": ["rerp", "trgas", "trgad","mk","remk","trmk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 90
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "DistalPhalanxTW":
+  {
+    "datanum": 139,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 6,
+    "infeature": ["rerp", "trrp", "trgas", "gad", "regad", "trgad","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 3,
+    "dim" : 32
+  }
+}

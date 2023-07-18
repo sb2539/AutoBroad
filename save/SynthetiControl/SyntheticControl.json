@@ -1,0 +1,17 @@
+{
+  "SyntheticControl":
+  {
+    "datanum": 300,
+    "rawlen" : 60,
+    "datalen": 64,
+    "classnum": 6,
+    "infeature": ["rp", "trrp", "gas", "remk", "ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 60
+  }
+}

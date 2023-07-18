@@ -1,0 +1,15 @@
+{
+  "Herring":
+  {
+    "datanum": 64,
+    "datalen": 512,
+    "classnum": 2,
+    "infeature": ["trmk" ,"trgas" ,"rp", "mk"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 66
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Beef":
+  {
+    "datanum": 30,
+    "rawlen" : 470,
+    "datalen": 470,
+    "classnum": 5,
+    "infeature": ["ctwav","rp", "trmk", "regas", "trgas","trrp","remk","gas","gad","rerp","trgad","mk","regad"],
+    "insize" : 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 16
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "FaceUCR":
+  {
+    "datanum": 2050,
+    "rawlen" : 131,
+    "datalen": 131,
+    "classnum": 14,
+    "infeature": ["rerp","trrp","regas","trgad","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 22
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ToeSegmentation2":
+  {
+    "datanum": 130,
+    "rawlen" : 343,
+    "datalen": 343,
+    "classnum": 2,
+    "infeature": ["trrp", "gas",  "regad", "trgad", "remk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 88
+  }
+}

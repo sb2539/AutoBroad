@@ -1,0 +1,15 @@
+{
+  "Strawberry":
+  {
+    "datanum": 370,
+    "datalen": 235,
+    "classnum": 2,
+    "infeature": ["rerp" ,"trrp", "gas", "regas", "trgas", "gad", "regad", "trmk"]
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 2,
+    "dim" : 34
+  }
+}

@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+13,7,"['trgad', 'trmk', 'regad', 'gas', 'gad', 'ctwav', 'mk']",[4],[3],[12],584189,87.2852233676976,0.12714776632302405

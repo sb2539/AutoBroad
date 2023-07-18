@@ -1,0 +1,17 @@
+{
+  "HandOutlines":
+  {
+    "datanum": 370,
+    "rawlen" : 2709,
+    "datalen": 720,
+    "classnum": 2,
+    "infeature": ["rerp","regas","trgas","gad","regad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 3,
+    "dim" : 74
+  }
+}

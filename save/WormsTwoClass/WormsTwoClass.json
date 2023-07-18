@@ -1,0 +1,15 @@
+{
+  "WormsTwoClass":
+  {
+    "datanum": 77,
+    "datalen": 64,
+    "classnum": 2,
+    "infeature": ["rp" ,"rerp" ,"regas", "trgas", "gad", "mk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 90
+  }
+}

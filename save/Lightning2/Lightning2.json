@@ -1,0 +1,16 @@
+{
+  "Lightning2":
+  {
+    "datanum": 61,
+    "datalen": 637,
+    "classnum": 2,
+    "infeature": ["rp" , "rerp", "trrp", "gas", "regas", "trgas", "trgad", "mk"
+    ,"remk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 16
+  }
+}

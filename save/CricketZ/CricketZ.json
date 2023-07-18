@@ -1,0 +1,17 @@
+{
+  "CricketZ":
+  {
+    "datanum": 390,
+    "rawlen" : 300,
+    "datalen": 300,
+    "classnum": 12,
+    "infeature": ["regas", "trrp", "rerp","gad","trgas"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 8
+  }
+}

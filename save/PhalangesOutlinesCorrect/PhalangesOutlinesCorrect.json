@@ -1,0 +1,17 @@
+{
+  "PhalangesOutlinesCorrect":
+  {
+    "datanum": 858,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 2,
+    "infeature": ["rp", "rerp", "trrp", "regas", "trgas", "gad","regad", "trgad","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 34
+  }
+}

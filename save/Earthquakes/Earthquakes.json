@@ -1,0 +1,17 @@
+{
+  "Earthquakes":
+  {
+    "datanum": 139,
+    "rawlen" : 512,
+    "datalen": 512,
+    "classnum": 2,
+    "infeature": ["trrp","regas","regad","trgad","remk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 3,
+    "dim" : 22
+  }
+}

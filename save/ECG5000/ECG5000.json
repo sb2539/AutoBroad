@@ -1,0 +1,17 @@
+{
+  "ECG5000":
+  {
+    "datanum": 4500,
+    "rawlen" : 140,
+    "datalen": 140,
+    "classnum": 5,
+    "infeature": ["rp", "gas","gad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 24
+  }
+}

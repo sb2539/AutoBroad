@@ -1,0 +1,17 @@
+{
+  "ShapeletSim":
+  {
+    "datanum": 180,
+    "rawlen" : 500,
+    "datalen": 500,
+    "classnum": 2,
+    "infeature": ["rp", "rerp", "trrp", "gas", "regas", "mk", "trmk"],
+    "insize" : 128
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 58
+  }
+}

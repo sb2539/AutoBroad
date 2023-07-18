@@ -1,0 +1,16 @@
+{
+  "Yoga":
+  {
+    "datanum": 3000,
+    "rawlen" : 426,
+    "datalen": 128,
+    "classnum": 2,
+    "infeature": ["rp" ,"rerp" ,"trrp", "regas", "gad", "regad", "trgad", "trmk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 36
+  }
+}

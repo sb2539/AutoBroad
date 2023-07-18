@@ -1,0 +1,13 @@
+,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,time
+0,"['trrp', 'gas', 'regas', 'trgas', 'mk', 'ctwav']",4,1,736,14974509,66.5,31
+1,"['rp', 'rerp', 'gad', 'regad', 'trgad', 'remk', 'trmk']",3,2,200,1790134,16.166666666666668,24
+2,"['rp', 'gas', 'gad']",4,3,192,2325954,35.166666666666664,18
+3,"['rp', 'gas', 'regad', 'trgad']",4,2,688,21276846,64.0,46
+4,"['rerp', 'trrp', 'gas', 'gad', 'regad', 'trmk']",4,2,672,20310462,60.333333333333336,43
+5,"['rerp', 'gas', 'trgas', 'gad', 'mk', 'ctwav']",4,1,736,14974509,65.0,27
+6,"['gas', 'regas', 'gad', 'trgad', 'mk', 'remk', 'trmk', 'ctwav']",2,2,172,1226290,13.0,34
+7,"['rerp', 'trgad', 'trmk', 'ctwav']",3,1,344,3193046,17.833333333333332,22
+8,"['rp', 'rerp', 'regas', 'trgas', 'gad', 'regad', 'trgad', 'trmk']",2,3,168,1634049,14.0,45
+9,"['rp', 'regas', 'gad', 'regad', 'trgad', 'ctwav']",3,1,344,3201474,33.0,23
+10,"['rp', 'gas', 'gad']",4,3,192,2325954,38.833333333333336,18
+11,"['trrp', 'gas', 'regas', 'trgas', 'mk', 'ctwav']",4,1,736,14974509,67.5,27

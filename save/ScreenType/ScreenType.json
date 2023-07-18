@@ -1,0 +1,17 @@
+{
+  "ScreenType":
+  {
+    "datanum": 375,
+    "rawlen" : 720,
+    "datalen": 720,
+    "classnum": 3,
+    "infeature": ["trmk", "remk", "regad","rp","rerp","trrp","gas","trgad", "mk"],
+    "insize": 128
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 8
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "DistalPhalanxOutlineCorrect":
+  {
+    "datanum": 276,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 2,
+    "infeature": ["rerp", "gas",  "trgas", "regas", "gad", "trgad", "regad", "remk", "trmk", "ctwav"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 24
+  }
+}

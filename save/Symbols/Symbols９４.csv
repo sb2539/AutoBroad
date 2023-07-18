@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+33,6,"['trgas', 'rerp', 'trrp', 'gad', 'trmk', 'remk']",[2],[3],[48],535890,94.37185929648241,0.05628140703517592

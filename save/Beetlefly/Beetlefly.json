@@ -1,0 +1,17 @@
+{
+  "Beetlefly":
+  {
+    "datanum": 20,
+    "rawlen" : 512,
+    "datalen": 512,
+    "classnum": 2,
+    "infeature": ["trmk","trgad","rp","ctwav","mk","gad","regas","remk","rerp"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 3,
+    "dim" : 16
+  }
+}

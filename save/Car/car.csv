@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+56,5,"['trmk', 'mk', 'rp', 'rerp', 'ctwav']",[4],[2],[16],744924,91.66666666666667,0.08333333333333337

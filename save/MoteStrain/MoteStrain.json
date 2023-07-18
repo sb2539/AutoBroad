@@ -1,0 +1,15 @@
+{
+  "MoteStrain":
+  {
+    "datanum": 1252,
+    "datalen": 84,
+    "classnum": 2,
+    "infeature": ["rp" ,"trrp","mk", "remk", "trmk"]
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 3,
+    "dim" : 66
+  }
+}

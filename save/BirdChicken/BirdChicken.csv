@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+63,2,"['gad', 'rerp']",[3],[3],[12],145073,90.0,0.09999999999999998

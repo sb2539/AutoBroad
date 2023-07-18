@@ -1,0 +1,17 @@
+{
+  "Trace":
+  {
+    "datanum": 100,
+    "rawlen" : 275,
+    "datalen": 275,
+    "classnum": 4,
+    "infeature": ["rp", "gas", "trgas", "gad", "regad", "trgad","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 26
+  }
+}

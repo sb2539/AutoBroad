@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+14,4,"['gas', 'trgad', 'trrp', 'rerp']",[2],[1],[96],883375,83.56164383561644,0.1643835616438356

@@ -1,0 +1,17 @@
+{
+  "CricketY":
+  {
+    "datanum": 390,
+    "rawlen" : 300,
+    "datalen": 300,
+    "classnum": 12,
+    "infeature": ["trmk", "rerp", "rp","trrp","ctwav","remk","mk","trgad", "trgas", "regad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 48
+  }
+}

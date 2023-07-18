@@ -1,0 +1,162 @@
+{
+  "hyperparameters": [
+    {
+      "name": "CTW",
+      "type": "categorical",
+      "choices": [
+        "ctwav",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "GAD",
+      "type": "categorical",
+      "choices": [
+        "gad",
+        "none"
+      ],
+      "default": "gad",
+      "weights": null
+    },
+    {
+      "name": "GAS",
+      "type": "categorical",
+      "choices": [
+        "gas",
+        "none"
+      ],
+      "default": "gas",
+      "weights": null
+    },
+    {
+      "name": "MK",
+      "type": "categorical",
+      "choices": [
+        "mk",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "REGAD",
+      "type": "categorical",
+      "choices": [
+        "regad",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "REGAS",
+      "type": "categorical",
+      "choices": [
+        "regas",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "REMK",
+      "type": "categorical",
+      "choices": [
+        "remk",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "RERP",
+      "type": "categorical",
+      "choices": [
+        "rerp",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "RP",
+      "type": "categorical",
+      "choices": [
+        "rp",
+        "none"
+      ],
+      "default": "rp",
+      "weights": null
+    },
+    {
+      "name": "TRGAD",
+      "type": "categorical",
+      "choices": [
+        "trgad",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "TRGAS",
+      "type": "categorical",
+      "choices": [
+        "trgas",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "TRMK",
+      "type": "categorical",
+      "choices": [
+        "trmk",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "TRRP",
+      "type": "categorical",
+      "choices": [
+        "trrp",
+        "none"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "n_cells",
+      "type": "uniform_int",
+      "log": false,
+      "lower": 1,
+      "upper": 3,
+      "default": 3
+    },
+    {
+      "name": "n_dims",
+      "type": "uniform_int",
+      "log": false,
+      "lower": 12,
+      "upper": 96,
+      "default": 24
+    },
+    {
+      "name": "n_stage",
+      "type": "uniform_int",
+      "log": false,
+      "lower": 2,
+      "upper": 4,
+      "default": 4
+    }
+  ],
+  "conditions": [],
+  "forbiddens": [],
+  "python_module_version": "0.6.1",
+  "json_format_version": 0.4
+}

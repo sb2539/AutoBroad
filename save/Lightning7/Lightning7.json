@@ -1,0 +1,17 @@
+{
+  "Lightning7":
+  {
+    "datanum": 73,
+    "rawlen" : 319,
+    "datalen": 319,
+    "classnum": 7,
+    "infeature": ["gad","mk", "remk", "regad", "trgad", "rerp", "gas", "rp"],
+    "insize" : 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 3,
+    "dim" : 48
+  }
+}

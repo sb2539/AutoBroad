@@ -1,0 +1,15 @@
+{
+  "SonyAIBORobotSurface1":
+  {
+    "datanum": 601,
+    "datalen": 70,
+    "classnum": 2,
+    "infeature": ["rp" ,"rerp", "regas", "regad", "mk", "remk", "trmk"]
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 58
+  }
+}

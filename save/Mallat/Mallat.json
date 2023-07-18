@@ -1,0 +1,17 @@
+{
+  "Mallat":
+  {
+    "datanum": 2345,
+    "rawlen" : 1024,
+    "datalen": 128,
+    "classnum": 8,
+    "infeature": ["rp","trrp","trgad","mk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 2,
+    "dim" : 32
+  }
+}

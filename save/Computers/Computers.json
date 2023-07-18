@@ -1,0 +1,17 @@
+{
+  "Computers":
+  {
+    "datanum": 250,
+    "rawlen" : 720,
+    "datalen": 720,
+    "classnum": 2,
+    "infeature": ["rp", "rerp",  "trrp", "gas", "regas", "trgas", "trgad", "remk"],
+    "insize": 128
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 24
+  }
+}

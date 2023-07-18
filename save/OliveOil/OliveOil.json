@@ -1,0 +1,17 @@
+{
+  "OliveOil":
+  {
+    "datanum": 30,
+    "rawlen" : 570,
+    "datalen": 570,
+    "classnum": 4,
+    "infeature": ["rerp", "trrp", "gas","regas","trgas","trgad","remk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 20
+  }
+}

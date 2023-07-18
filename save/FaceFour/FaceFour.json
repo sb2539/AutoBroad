@@ -1,0 +1,17 @@
+{
+  "FaceFour":
+  {
+    "datanum": 88,
+    "rawlen" : 350,
+    "datalen": 350,
+    "classnum": 4,
+    "infeature": ["rp","rerp","trrp","gas","regas","trgas","gad","regad","trgad","mk","remk","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 16
+  }
+}

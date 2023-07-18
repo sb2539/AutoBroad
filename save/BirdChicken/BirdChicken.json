@@ -1,0 +1,17 @@
+{
+  "BirdChicken":
+  {
+    "datanum": 20,
+    "rawlen" : 512,
+    "datalen": 512,
+    "classnum": 2,
+    "infeature": ["gad", "rerp"],
+    "insize": 128
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 3,
+    "dim" : 12
+  }
+}

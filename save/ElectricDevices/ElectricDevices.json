@@ -1,0 +1,17 @@
+{
+  "ElectricDevices":
+  {
+    "datanum": 7711,
+    "rawlen" : 96,
+    "datalen": 96,
+    "classnum": 7,
+    "infeature": ["rerp", "trrp", "trgas","gad","mk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 90
+  }
+}

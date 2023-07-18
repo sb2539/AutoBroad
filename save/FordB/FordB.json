@@ -1,0 +1,17 @@
+{
+  "FordB":
+  {
+    "datanum": 810,
+    "rawlen" : 500,
+    "datalen": 500,
+    "classnum": 2,
+    "infeature": ["mk","trgad","trrp","ctwav","trmk","regad","remk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 24
+  }
+}

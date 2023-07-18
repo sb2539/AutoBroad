@@ -1,0 +1,75 @@
+{
+  "stats": {
+    "submitted": 2,
+    "finished": 2,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      100.0,
+      5.272319793701172,
+      1,
+      1685016620.0064244,
+      1685016625.2843976,
+      {}
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      22.66666666666667,
+      110.34743618965149,
+      1,
+      1685016625.3116987,
+      1685016735.6604447,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "CTW": "ctwav",
+      "GAD": "none",
+      "GAS": "gas",
+      "MK": "mk",
+      "REGAD": "none",
+      "REGAS": "regas",
+      "REMK": "none",
+      "RERP": "none",
+      "RP": "none",
+      "TRGAD": "none",
+      "TRGAS": "trgas",
+      "TRMK": "none",
+      "TRRP": "trrp",
+      "n_cells": 1,
+      "n_dims": 92,
+      "n_stage": 4
+    },
+    "2": {
+      "CTW": "none",
+      "GAD": "gad",
+      "GAS": "gas",
+      "MK": "none",
+      "REGAD": "none",
+      "REGAS": "none",
+      "REMK": "none",
+      "RERP": "none",
+      "RP": "rp",
+      "TRGAD": "none",
+      "TRGAS": "none",
+      "TRMK": "none",
+      "TRRP": "none",
+      "n_cells": 3,
+      "n_dims": 24,
+      "n_stage": 4
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial design"
+  }
+}

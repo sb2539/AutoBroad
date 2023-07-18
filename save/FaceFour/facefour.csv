@@ -1,0 +1,5 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+62,6,"['gas', 'remk', 'trmk', 'regad', 'gad', 'rerp']",[4],[1],[16],459168,95.45454545454545,0.045454545454545414
+73,9,"['rp', 'gas', 'trmk', 'trgas', 'ctwav', 'regas', 'remk', 'rerp', 'regad']",[4],[3],[12],585727,95.45454545454545,0.045454545454545414
+115,3,"['gas', 'rp', 'trgad']",[4],[2],[16],743356,95.45454545454545,0.045454545454545414
+117,13,"['mk', 'regad', 'trgad', 'trmk', 'remk', 'trgas', 'regas', 'rp', 'gas', 'ctwav', 'trrp', 'rerp', 'gad']",[4],[1],[20],721059,95.45454545454545,0.045454545454545414

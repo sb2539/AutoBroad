@@ -1,0 +1,2 @@
+,channel_num,img_coding,num_layer,num_cell,start_cell_dim,parameter_num,acc,error_rate
+75,8,"['regad', 'trrp', 'gas', 'rerp', 'rp', 'trgas', 'regas', 'trgad']",[3],[3],[24],577624,77.76315789473684,0.22236842105263155

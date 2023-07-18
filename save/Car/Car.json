@@ -1,0 +1,17 @@
+{
+  "Car":
+  {
+    "datanum": 60,
+    "rawlen" : 577,
+    "datalen": 577,
+    "classnum": 3,
+    "infeature": ["gad","trmk", "trgad", "gas", "ctwav"],
+    "insize" : 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 16
+  }
+}

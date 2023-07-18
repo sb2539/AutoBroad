@@ -1,0 +1,17 @@
+{
+  "ChlorineConcentration":
+  {
+    "datanum": 3840,
+    "rawlen" : 166,
+    "datalen": 166,
+    "classnum": 3,
+    "infeature": ["trgas", "rerp", "gad","regas","regad","rp", "ctwav","gas","mk","trrp","trgad"],
+    "insize": 128
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 8
+  }
+}
